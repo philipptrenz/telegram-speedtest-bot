@@ -39,7 +39,8 @@ instructions. Enter the retreived token to the `token` property in
 
 Create a Telegram channel and add your created bot as an admin with the
 privileges to post messages. Then add the name of the created channel
-(with a leading `@`) to the `channel` property in `config.json`.
+(with a leading `@`) to the `channel` property in `config.json`. Make
+shure your channel is public, otherwise it will not work.
 
 ## Run the script
 
