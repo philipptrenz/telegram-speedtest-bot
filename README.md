@@ -6,12 +6,8 @@ This Python bot reports speedtests to a Telegram channel.
 ## Install dependencies
 
 ```bash
-
-
 sudo apt install python3 python3-pip
-sudo pip3 install python-telegram-bot
-sudo pip3 install speedtest-cli
-
+sudo pip3 install python-telegram-bot speedtest-cli
 ```
 
 ## Create config file
