@@ -1,6 +1,6 @@
 # Telegram speedtest bot
 
-This bot reports speedtests to a Telegram channel.
+This Python bot reports speedtests to a Telegram channel.
 
 
 ## Install dependencies
@@ -22,8 +22,8 @@ which has the following format:
 ```json
 {
     "telegram": {
-        "token": "...",
-        "channel": "@..."
+        "token": "abc...",
+        "channel": "@channel_xy"
     }
 }
 
